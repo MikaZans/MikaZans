@@ -1,16 +1,34 @@
-## Hi there 👋
+# Get to Know Me
+<details>
+  <summary>My Intrests</summary>
+  
+  + Crochet
+  + Puzzles
+  + Reading
+  + Musical Theater
+  + Board Games
+  + Cozy Video Games
+</details>
+<details>
+  <summary>Education</summary>
 
-<!--
-**MikaZans/MikaZans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <details>
+  <summary>Undergrad</summary>
+  
+  + English Degree
+  + Folklore Minor
+  + Linguistics Minor
+  </details>
+  <details>
+  <summary>Grad</summary>
 
-Here are some ideas to get you started:
+  + Working on MLIS
+  </details>
+</details>
+<details>
+  <summary>Fun Facts</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  + I have two chinchillas
+  + I have nearly 200 board games
+  + I've performed with a Sesame Street puppeter
+</details>
