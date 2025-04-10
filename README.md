@@ -32,3 +32,8 @@
   + I have nearly 200 board games
   + I've performed with a Sesame Street puppeter
 </details>
+
+## Links
+
+[Data Curation](https://github.com/topics/data-curation) </br>
+[Digital Preservation](https://github.com/topics/digital-preservation)
